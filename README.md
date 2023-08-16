@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[![Salam]http://mhdriazi.com/myAPIs/image_files/64dc9c98a29e5_306.jpg]()
-
+  <img align="right" alt="Coding" width="400" src="http://mhdriazi.com/myAPIs/image_files/64dc9c98a29e5_306.jpg">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
