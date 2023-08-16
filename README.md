@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tohidnoori" alt="tohidnoori" /></a> </p>
 
-- 🔭 I’m currently working on **Serval android projects and one React store website**
+- 🔭 I’m currently working on Serval **Android** projects and one **React store website**
 
 - 💬 Ask me about **Android , flutter , react , backend ...**
 
