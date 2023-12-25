@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tohid</h1>
-<h3 align="center">A Introverted and eccentric developer from Earth</h3>
+<h3 align="center">A strange developer from Earth</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tohidnoori&label=Profile%20views&color=0e75b6&style=flat" alt="tohidnoori" /> </p>
 
