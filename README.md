@@ -6,6 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tohidnoori" alt="tohidnoori" /></a> </p>
 
 - 🔭 I’m currently working on Serval **Android** projects and on <a  href="https://tamuk.ir/">Tamuk</a> super application start up
+  
+- 😁 I’m learning machine learning algorithm in detail too
 
 - 💬 Ask me about **Android , flutter , react , backend ...**
 
