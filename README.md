@@ -27,4 +27,5 @@ href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://w
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tohidnoori&show_icons=true&locale=en" alt="tohidnoori" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tohidnoori&" alt="tohidnoori" /></p>
-![snake gif](https://github.com/tohidnoori/tohidnoori/blob/output/github-snake.svg)
+
+![snake gif](https://raw.githubusercontent.com/tohidnoori/tohidnoori/output/github-snake.svg)
