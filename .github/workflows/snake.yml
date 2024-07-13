@@ -22,7 +22,7 @@ jobs:
           svg_out_path: dist/github-snake.svg
 
       - name: Push Snake to the output branch
-        uses: tohidnoori/ghaction-github-pages@v4.0.0
+        uses: tohidnoori/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
