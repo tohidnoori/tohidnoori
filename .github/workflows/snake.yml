@@ -16,13 +16,13 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Generate Snake
-        uses: tohidnoori/snk
+        uses: tohidnoori/snk@v3.2.0
         with:
           github_user_name: tohidnoori
           svg_out_path: dist/github-snake.svg
 
       - name: Push Snake to the output branch
-        uses: tohidnoori/ghaction-github-pages
+        uses: tohidnoori/ghaction-github-pages@v4.0.0
         with:
           target_branch: output
           build_dir: dist
