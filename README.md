@@ -28,4 +28,4 @@ href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://w
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tohidnoori&" alt="tohidnoori" /></p>
 
-![snake gif](https://github.com/tohidnoori/tohidnoori/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/tohidnoori/tohidnoori/blob/output/github-contribution-grid-dark-snake.svg)
