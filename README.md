@@ -8,6 +8,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=tohidnoori&theme=dark&row=1&column=5" alt="tohidnoori" />
   </a>
 </p>
+
 - 🔭 I’m currently working on Serval **Android** projects and on <a  href="https://tamuk.ir/">Tamuk</a> super application start up
   
 - 😁 I’m learning machine learning algorithm in detail too
