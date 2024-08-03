@@ -14,13 +14,11 @@
 
 - 💬 Ask me about **Android , flutter , react , backend ...**
 
-- 📫 How to reach me **thdnoori@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/thdn8ri" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thdn8r" height="30" width="40" /></a>
 <a href="https://t.me/Tmsoftt" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="n8b coder" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/tohid-noori-a59046180" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="n8b coder" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tohid-noori-a59046180" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="linkedin" height="30" width="40" /></a>
 
 </p>
 
