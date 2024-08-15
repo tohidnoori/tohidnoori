@@ -4,9 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tohidnoori&label=Profile%20views&color=0e75b6&style=flat" alt="tohidnoori" /> </p>
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tohidnoori&theme=dark&row=1&column=5" alt="tohidnoori" />
-  </a>
+    <img src="https://github-profile-trophy.vercel.app/?username=tohidnoori&theme=nord&row=1&column=5" alt="tohidnoori" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -28,7 +26,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tohidnoori&theme=nord_dark) 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tohidnoori&theme=nord_dark) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tohidnoori&layout=compact&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tohidnoori&layout=compact&theme=nord&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![snake gif](https://github.com/tohidnoori/tohidnoori/blob/output/github-contribution-grid-snake-dark.svg)
