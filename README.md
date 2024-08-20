@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tohidnoori&label=Profile%20views&color=0e75b6&style=flat" alt="tohidnoori" /> </p>
 
-[![](https://visitcount.itsvg.in/api?id=tohidnoori&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img  style="display:none;" src="https://visitcount.itsvg.in/api?id=tohidnoori&label=Profile%20Views&pretty=false" />
+</a>
 
 <p align="left">
     <img src="https://github-profile-trophy.vercel.app/?username=tohidnoori&theme=nord&row=1&column=5" alt="tohidnoori" />
