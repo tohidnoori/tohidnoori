@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tohidnoori&label=Profile%20views&color=0e75b6&style=flat" alt="tohidnoori" /> </p>
 
-<a href="https://visitcount.itsvg.in">
-  <img  style="display:none;" src="https://visitcount.itsvg.in/api?id=tohidnoori&label=Profile%20Views&pretty=false" />
+<a style="display:none;" href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=tohidnoori&label=Profile%20Views&pretty=false" />
 </a>
 
 <p align="left">
