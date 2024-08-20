@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tohidnoori&label=Stalkers&color=0e75b6&style=flat" alt="tohidnoori" /> </p>
 
-<a style="display:none;" href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=tohidnoori&label=Profile%20Views&pretty=false" />
-</a>
+
 
 <p align="left">
     <img src="https://github-profile-trophy.vercel.app/?username=tohidnoori&theme=nord&row=1&column=5" alt="tohidnoori" />
@@ -34,3 +32,7 @@
 
 
 ![snake gif](https://github.com/tohidnoori/tohidnoori/blob/output/github-contribution-grid-snake-dark.svg)
+
+<a style="width:0px;" href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=tohidnoori&label=Profile%20Views&pretty=false" />
+</a>
